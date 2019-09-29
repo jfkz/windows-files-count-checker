@@ -1,0 +1,9 @@
+[Main]
+; Directory to check
+Directory=C:\Windows
+; Count to alert
+Count=20
+; Filemask to check
+Mask=*.exe
+; Timeout to wait
+Timeout=120
